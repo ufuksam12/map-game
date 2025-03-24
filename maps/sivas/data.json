@@ -1,0 +1,25 @@
+
+{
+  "name": "Sivas",
+  "type": "city",
+  "items": [
+    {"name": "Akıncılar", "code": 200},
+    {"name": "Altınyayla", "code": 201},
+    {"name": "Divriği", "code": 202},
+    {"name": "Doğanşar", "code": 203},
+    {"name": "Gemerek", "code": 204},
+    {"name": "Gölova", "code": 205},
+    {"name": "Gürün", "code": 206},
+    {"name": "Hafik", "code": 207},
+    {"name": "İmranlı", "code": 208},
+    {"name": "Kangal", "code": 209},
+    {"name": "Koyulhisar", "code": 210},
+    {"name": "Merkez", "code": 211},
+    {"name": "Şarkışla", "code": 212},
+    {"name": "Suşehri", "code": 213},
+    {"name": "Ulaş", "code": 214},
+    {"name": "Yıldızeli", "code": 215},
+    {"name": "Zara", "code": 216}
+  ]
+}
+

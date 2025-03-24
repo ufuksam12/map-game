@@ -1,0 +1,14 @@
+
+{
+  "name": "Muş",
+  "type": "city",
+  "items": [
+    {"name": "Bulanık", "code": 200},
+    {"name": "Hasköy", "code": 201},
+    {"name": "Korkut", "code": 202},
+    {"name": "Malazgirt", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Varto", "code": 205}
+  ]
+}
+

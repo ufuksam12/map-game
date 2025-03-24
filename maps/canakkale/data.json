@@ -1,0 +1,20 @@
+
+{
+  "name": "Çanakkale",
+  "type": "city",
+  "items": [
+    {"name": "Ayvacık", "code": 200},
+    {"name": "Bayramiç", "code": 201},
+    {"name": "Biga", "code": 202},
+    {"name": "Bozcaada", "code": 203},
+    {"name": "Çan", "code": 204},
+    {"name": "Eceabat", "code": 205},
+    {"name": "Ezine", "code": 206},
+    {"name": "Gelibolu", "code": 207},
+    {"name": "Gökçeada", "code": 208},
+    {"name": "Lapseki", "code": 209},
+    {"name": "Merkez", "code": 210},
+    {"name": "Yenice", "code": 211}
+  ]
+}
+

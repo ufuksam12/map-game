@@ -1,0 +1,26 @@
+
+{
+  "name": "Afyonkarahisar",
+  "type": "city",
+  "items": [
+    {"name": "Başmakçı", "code": 200},
+    {"name": "Bayat", "code": 201},
+    {"name": "Bolvadin", "code": 202},
+    {"name": "Çay", "code": 203},
+    {"name": "Çobanlar", "code": 204},
+    {"name": "Dazkırı", "code": 205},
+    {"name": "Dinar", "code": 206},
+    {"name": "Emirdağ", "code": 207},
+    {"name": "Evciler", "code": 208},
+    {"name": "Hocalar", "code": 209},
+    {"name": "İhsaniye", "code": 210},
+    {"name": "İscehisar", "code": 211},
+    {"name": "Kızılören", "code": 212},
+    {"name": "Merkez", "code": 213},
+    {"name": "Sandıklı", "code": 214},
+    {"name": "Sincanlı", "code": 215},
+    {"name": "Şuhut", "code": 216},
+    {"name": "Sultandağı", "code": 217}
+  ]
+}
+

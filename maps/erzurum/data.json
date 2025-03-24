@@ -1,0 +1,27 @@
+
+{
+  "name": "Erzurum",
+  "type": "city",
+  "items": [
+    {"name": "Aşkale", "code": 200},
+    {"name": "Çat", "code": 201},
+    {"name": "Hınıs", "code": 202},
+    {"name": "Horasan", "code": 203},
+    {"name": "Ilıca", "code": 204},
+    {"name": "İspir", "code": 205},
+    {"name": "Karaçoban", "code": 206},
+    {"name": "Karayazı", "code": 207},
+    {"name": "Köprüköy", "code": 208},
+    {"name": "Merkez", "code": 209},
+    {"name": "Narman", "code": 210},
+    {"name": "Oltu", "code": 211},
+    {"name": "Olur", "code": 212},
+    {"name": "Pasinler", "code": 213},
+    {"name": "Pazaryolu", "code": 214},
+    {"name": "Şenkaya", "code": 215},
+    {"name": "Tekman", "code": 216},
+    {"name": "Tortum", "code": 217},
+    {"name": "Uzundere", "code": 218}
+  ]
+}
+

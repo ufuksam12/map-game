@@ -1,0 +1,15 @@
+
+{
+  "name": "Şırnak",
+  "type": "city",
+  "items": [
+    {"name": "Beytüşşebap", "code": 200},
+    {"name": "Cizre", "code": 201},
+    {"name": "Güçlükonak", "code": 202},
+    {"name": "İdil", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Silopi", "code": 205},
+    {"name": "Uludere", "code": 206}
+  ]
+}
+

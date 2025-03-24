@@ -1,0 +1,18 @@
+
+{
+  "name": "Mardin",
+  "type": "city",
+  "items": [
+    {"name": "Dargeçit", "code": 200},
+    {"name": "Derik", "code": 201},
+    {"name": "Kızıltepe", "code": 202},
+    {"name": "Mazıdağı", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Midyat", "code": 205},
+    {"name": "Nusaybin", "code": 206},
+    {"name": "Ömerli", "code": 207},
+    {"name": "Savur", "code": 208},
+    {"name": "Yeşilli", "code": 209}
+  ]
+}
+

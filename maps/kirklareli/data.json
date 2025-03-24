@@ -1,0 +1,16 @@
+
+{
+  "name": "Kırklareli",
+  "type": "city",
+  "items": [
+    {"name": "Babaeski", "code": 200},
+    {"name": "Demirköy", "code": 201},
+    {"name": "Kofçaz", "code": 202},
+    {"name": "Lüleburgaz", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Pehlivanköy", "code": 205},
+    {"name": "Pınarhisar", "code": 206},
+    {"name": "Vize", "code": 207}
+  ]
+}
+

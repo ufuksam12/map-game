@@ -1,0 +1,354 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(images/city-guessr-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+#logo-block {
+
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.logo {
+    width: 114px;
+    height: 114px;
+    margin: 0 auto;
+    margin-bottom: -30px;
+    z-index: 10;
+}
+
+
+#description-block {
+
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.description {
+    width: 440px;
+    height: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px 30px 0 0;
+    align-items: center;
+    background-color: #2A2ACE2E;
+    backdrop-filter: blur(20px);
+    border: 1px solid #FFFFFF44;
+    border-bottom: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+.description.fade-out {
+    opacity: 0;
+}
+
+#bolum-sec-btn {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #2A2ACE2E;
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    margin-top: -60px;
+    margin-bottom: 30px;
+
+}
+
+.bolum-listesi {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 5px;
+    row-gap: 10px;
+}
+
+
+.bolum-listesi button {
+    
+    height: 30px;
+    border-radius: 20px;
+    background-color: #2A2ACE2E;
+    border: 0;
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(47, 44, 141) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    padding: 5px 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+
+}
+.bolum-listesi button:hover {
+    box-shadow: 0 0 5px #ffffff;
+}
+
+#game-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#game-map {
+    position: relative;
+    display: flex;
+    width: 800px;
+    height: 500px;
+    background: url(images/map-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.game-cursor {
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    mix-blend-mode: difference
+}
+
+.cursor-y {
+    position: absolute;
+    width: 100%;   
+    top: -10px; 
+    border-bottom: dashed 3px green;
+}
+
+.cursor-x {
+    position: absolute;
+    height: 100%;
+    left: -10px; 
+    border-left: dashed 3px green;   
+}
+
+.hover-title {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    border: 3px dotted #000000;
+    background: #309d42c4;
+    color: #000000;
+    padding: 5px 20px;
+    opacity: 1;
+    transition: transform 1s ease-in-out;
+}
+
+.game-timer {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    border: 3px dotted #000000;
+    background: #309d42c4;
+    color: #000000;
+    padding: 5px 20px;
+    opacity: 1;
+    transition: transform 1s ease-in-out;
+}
+
+.game-progress {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border: 3px dotted #000000;
+    background: #309d42c4;
+    color: #000000;
+    padding: 5px 20px;
+    opacity: 1;
+    transition: transform 1s ease-in-out;
+}
+.hover-title.hide {
+    opacity: 0;
+}
+
+.level-scores {
+    width: 160px;
+    height: 110px;
+    box-sizing: border-box;
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #2A2ACE2E;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    backdrop-filter: blur(20px);
+    border: 1px solid #FFFFFF44;
+    border-right: 0;
+    padding: 24px;
+    gap: 5px;
+
+}
+
+.level-items {
+    width: 160px;
+    height: 110px;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    border-radius: 30px;
+    background-color: #2A2ACE2E;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    justify-content: center;
+    align-items: flex-start;
+    backdrop-filter: blur(20px);
+    border: 1px solid #FFFFFF44;
+    border-left: 0;
+    padding: 15px;
+    gap: 5px;
+}
+
+.hit-use {
+    gap: 5px;
+}
+
+
+
+
+.score-item {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.score-item-img {
+    display: block;
+    width: auto;
+    height: 28px;
+
+}
+
+.map-svg {
+    transition: all ease-in-out;
+    width: 100%;
+    height: auto;
+    transition: transform 2s ease-out ;
+    transform-origin: 0% 50%;
+
+}
+
+#game-map:hover .map-svg {
+    transition: transform 4s ease-out ;
+}
+#game-map:hover .map-svg {
+    transform: scale(1.1);
+}
+
+.map-svg svg {
+    background: transparent !important;
+}
+
+.map-svg path {
+    fill: url(#gradNormal);
+    transition: all .3s ease-in-out;
+    stroke: #ffffff;
+    stroke-width: 2px;
+}
+
+.map-svg path.yanlis {
+    animation-name: blink;
+    animation-duration: .2s;
+    animation-iteration-count: 10;
+    transform: 0s;
+    fill: red !important;
+}
+
+
+.map-svg path.bulundu {
+    fill: green !important;
+    opacity: 0.7;
+    animation-name: blink;
+    animation-duration: .2s;
+    animation-iteration-count: 3;
+}
+
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+
+}
+
+.map-svg path:hover {
+
+    fill: url(#gradHover);
+
+}
+
+
+.score-item-button {
+    border: 1px solid #ffffff00;
+    background: transparent;
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 3px 8px;
+    margin: 0 -4px;
+    white-space: nowrap;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    font-family: "Righteous", sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.score-item-button:hover {
+    border: 1px solid #ffffff;
+    background: linear-gradient(rgb(226, 134, 222), purple);
+}
+
+.score-item-button:active {
+    border: 1px solid #ffffff33;
+    background: linear-gradient(purple, rgb(226, 134, 222));
+}
+
+.modal {
+
+    position: fixed;
+    width: 600px;
+    height: 680px;
+    background: #141438;
+    border-radius: 30px;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    z-index: 100;
+    padding: 30px;
+}
+
+.modal.hide {
+    display: none;
+}

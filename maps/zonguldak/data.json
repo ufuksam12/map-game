@@ -1,0 +1,14 @@
+
+{
+  "name": "Zonguldak",
+  "type": "city",
+  "items": [
+    {"name": "Alaplı", "code": 200},
+    {"name": "Çaycuma", "code": 201},
+    {"name": "Devrek", "code": 202},
+    {"name": "Ereğli", "code": 203},
+    {"name": "Gökçebey", "code": 204},
+    {"name": "Merkez", "code": 205}
+  ]
+}
+

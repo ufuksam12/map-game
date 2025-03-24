@@ -1,0 +1,16 @@
+
+{
+  "name": "Bingöl",
+  "type": "city",
+  "items": [
+    {"name": "Adaklı", "code": 200},
+    {"name": "Genç", "code": 201},
+    {"name": "Karlıova", "code": 202},
+    {"name": "Kiğı", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Solhan", "code": 205},
+    {"name": "Yayladere", "code": 206},
+    {"name": "Yedisu", "code": 207}
+  ]
+}
+

@@ -1,0 +1,14 @@
+
+{
+  "name": "Niğde",
+  "type": "city",
+  "items": [
+    {"name": "Altunhisar", "code": 200},
+    {"name": "Bor", "code": 201},
+    {"name": "Çamardı", "code": 202},
+    {"name": "Çiftlik", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Ulukışla", "code": 205}
+  ]
+}
+

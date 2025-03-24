@@ -1,0 +1,14 @@
+
+{
+  "name": "Batman",
+  "type": "city",
+  "items": [
+    {"name": "Beşiri", "code": 200},
+    {"name": "Gercüş", "code": 201},
+    {"name": "Hasankeyf", "code": 202},
+    {"name": "Kozluk", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Sason", "code": 205}
+  ]
+}
+

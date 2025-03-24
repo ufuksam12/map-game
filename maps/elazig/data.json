@@ -1,0 +1,19 @@
+
+{
+  "name": "Elazığ",
+  "type": "city",
+  "items": [
+    {"name": "Ağın", "code": 200},
+    {"name": "Alacakaya", "code": 201},
+    {"name": "Arıcak", "code": 202},
+    {"name": "Baskil", "code": 203},
+    {"name": "Karakoçan", "code": 204},
+    {"name": "Keban", "code": 205},
+    {"name": "Kovancılar", "code": 206},
+    {"name": "Maden", "code": 207},
+    {"name": "Merkez", "code": 208},
+    {"name": "Palu", "code": 209},
+    {"name": "Sivrice", "code": 210}
+  ]
+}
+

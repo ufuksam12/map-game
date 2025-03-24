@@ -1,0 +1,16 @@
+
+{
+  "name": "Kars",
+  "type": "city",
+  "items": [
+    {"name": "Akyaka", "code": 200},
+    {"name": "Arpaçay", "code": 201},
+    {"name": "Digor", "code": 202},
+    {"name": "Kağızman", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Sarıkamış", "code": 205},
+    {"name": "Selim", "code": 206},
+    {"name": "Susuz", "code": 207}
+  ]
+}
+

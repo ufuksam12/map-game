@@ -1,0 +1,27 @@
+
+{
+  "name": "Denizli",
+  "type": "city",
+  "items": [
+    {"name": "Acıpayam", "code": 200},
+    {"name": "Akköy", "code": 201},
+    {"name": "Babadağ", "code": 202},
+    {"name": "Baklan", "code": 203},
+    {"name": "Bekilli", "code": 204},
+    {"name": "Beyağaç", "code": 205},
+    {"name": "Bozkurt", "code": 206},
+    {"name": "Buldan", "code": 207},
+    {"name": "Çal", "code": 208},
+    {"name": "Çameli", "code": 209},
+    {"name": "Çardak", "code": 210},
+    {"name": "Çivril", "code": 211},
+    {"name": "Güney", "code": 212},
+    {"name": "Honaz", "code": 213},
+    {"name": "Kale", "code": 214},
+    {"name": "Merkez", "code": 215},
+    {"name": "Sarayköy", "code": 216},
+    {"name": "S.hisar", "code": 217},
+    {"name": "Tavas", "code": 218}
+  ]
+}
+

@@ -1,0 +1,15 @@
+
+{
+  "name": "Siirt",
+  "type": "city",
+  "items": [
+    {"name": "Aydınlar", "code": 200},
+    {"name": "Baykan", "code": 201},
+    {"name": "Eruh", "code": 202},
+    {"name": "Kurtalan", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Pervari", "code": 205},
+    {"name": "Şirvan", "code": 206}
+  ]
+}
+

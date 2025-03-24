@@ -1,0 +1,27 @@
+
+{
+  "name": "Balıkesir",
+  "type": "city",
+  "items": [
+    {"name": "Ayvalık", "code": 200},
+    {"name": "Balya", "code": 201},
+    {"name": "Bandırma", "code": 202},
+    {"name": "Bigadiç", "code": 203},
+    {"name": "Burhaniye", "code": 204},
+    {"name": "Dursunbey", "code": 205},
+    {"name": "Edremit", "code": 206},
+    {"name": "Erdek", "code": 207},
+    {"name": "Gömeç", "code": 208},
+    {"name": "Gönen", "code": 209},
+    {"name": "Havran", "code": 210},
+    {"name": "İvrindi", "code": 211},
+    {"name": "Kepsut", "code": 212},
+    {"name": "Manyas", "code": 213},
+    {"name": "Marmara", "code": 214},
+    {"name": "Merkez", "code": 215},
+    {"name": "Savaştepe", "code": 216},
+    {"name": "Sındırgı", "code": 217},
+    {"name": "Susurluk", "code": 218}
+  ]
+}
+

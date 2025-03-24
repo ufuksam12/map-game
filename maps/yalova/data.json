@@ -1,0 +1,14 @@
+
+{
+  "name": "Yalova",
+  "type": "city",
+  "items": [
+    {"name": "Altınova", "code": 200},
+    {"name": "Armutlu", "code": 201},
+    {"name": "Çiftlikköy", "code": 202},
+    {"name": "Çınarcık", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Termal", "code": 205}
+  ]
+}
+

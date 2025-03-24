@@ -1,0 +1,22 @@
+
+{
+  "name": "Diyarbakır",
+  "type": "city",
+  "items": [
+    {"name": "Bismil", "code": 200},
+    {"name": "Çermik", "code": 201},
+    {"name": "Çınar", "code": 202},
+    {"name": "Çüngüş", "code": 203},
+    {"name": "Dicle", "code": 204},
+    {"name": "Eğil", "code": 205},
+    {"name": "Ergani", "code": 206},
+    {"name": "Hani", "code": 207},
+    {"name": "Hazro", "code": 208},
+    {"name": "Kocaköy", "code": 209},
+    {"name": "Kulp", "code": 210},
+    {"name": "Lice", "code": 211},
+    {"name": "Merkez", "code": 212},
+    {"name": "Silvan", "code": 213}
+  ]
+}
+

@@ -1,0 +1,26 @@
+
+{
+  "name": "Trabzon",
+  "type": "city",
+  "items": [
+    {"name": "Akçaabat", "code": 200},
+    {"name": "Araklı", "code": 201},
+    {"name": "Arsin", "code": 202},
+    {"name": "Beşikdüzü", "code": 203},
+    {"name": "Çarşıbaşı", "code": 204},
+    {"name": "Çaykara", "code": 205},
+    {"name": "Dernekpazarı", "code": 206},
+    {"name": "Düzköy", "code": 207},
+    {"name": "Hayrat", "code": 208},
+    {"name": "Köprübaşı", "code": 209},
+    {"name": "Maçka", "code": 210},
+    {"name": "Merkez", "code": 211},
+    {"name": "Of", "code": 212},
+    {"name": "Şalpazarı", "code": 213},
+    {"name": "Sürmene", "code": 214},
+    {"name": "Tonya", "code": 215},
+    {"name": "Vakfıkebir", "code": 216},
+    {"name": "Yomra", "code": 217}
+  ]
+}
+

@@ -1,0 +1,24 @@
+
+{
+  "name": "Giresun",
+  "type": "city",
+  "items": [
+    {"name": "Alucra", "code": 200},
+    {"name": "Bulancak", "code": 201},
+    {"name": "Çamoluk", "code": 202},
+    {"name": "Çanakçı", "code": 203},
+    {"name": "Dereli", "code": 204},
+    {"name": "Doğankent", "code": 205},
+    {"name": "Espiye", "code": 206},
+    {"name": "Eynesil", "code": 207},
+    {"name": "Görele", "code": 208},
+    {"name": "Güce", "code": 209},
+    {"name": "Keşap", "code": 210},
+    {"name": "Merkez", "code": 211},
+    {"name": "Piraziz", "code": 212},
+    {"name": "Şebinkarahisar", "code": 213},
+    {"name": "Tirebolu", "code": 214},
+    {"name": "Yağlıdere", "code": 215}
+  ]
+}
+

@@ -1,0 +1,17 @@
+
+{
+  "name": "Gaziantep",
+  "type": "city",
+  "items": [
+    {"name": "Araban", "code": 200},
+    {"name": "İslahiye", "code": 201},
+    {"name": "Karkamış", "code": 202},
+    {"name": "Nizip", "code": 203},
+    {"name": "Nurdağı", "code": 204},
+    {"name": "Oğuzeli", "code": 205},
+    {"name": "Şahinbey", "code": 206},
+    {"name": "Şehitkamil", "code": 207},
+    {"name": "Yavuzeli", "code": 208}
+  ]
+}
+

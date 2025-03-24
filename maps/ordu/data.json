@@ -1,0 +1,26 @@
+
+{
+  "name": "Ordu",
+  "type": "city",
+  "items": [
+    {"name": "Akkuş", "code": 200},
+    {"name": "Aybastı", "code": 201},
+    {"name": "Çamaş", "code": 202},
+    {"name": "Çaybaşı", "code": 203},
+    {"name": "Fatsa", "code": 204},
+    {"name": "Gölköy", "code": 205},
+    {"name": "Gülyalı", "code": 206},
+    {"name": "Gürgent", "code": 207},
+    {"name": "İkizce", "code": 208},
+    {"name": "Kabadüz", "code": 209},
+    {"name": "Kabataş", "code": 210},
+    {"name": "Korgan", "code": 211},
+    {"name": "Kumru", "code": 212},
+    {"name": "Merkez", "code": 213},
+    {"name": "Mesudiye", "code": 214},
+    {"name": "Perşembe", "code": 215},
+    {"name": "Ulubey", "code": 216},
+    {"name": "Ünye", "code": 217}
+  ]
+}
+

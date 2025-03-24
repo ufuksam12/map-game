@@ -1,0 +1,10 @@
+{
+    "name": "Bayburt",
+    "type":"city",
+    "items": [
+      
+        { "name": "Aydıntepe", "code": 4001 },
+        { "name": "Demirözü", "code": 4002 },
+        { "name": "Merkez", "code": 4003 }
+    ]
+    }

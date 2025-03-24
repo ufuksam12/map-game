@@ -1,0 +1,24 @@
+
+{
+  "name": "Deutschland",
+  "type": "country",
+  "items": [
+    {"name": "Niedersachsen", "code": 200},
+    {"name": "Schleswig-Holstein", "code": 201},
+    {"name": "Berlin", "code": 202},
+    {"name": "Mecklenburg-Vorpommern", "code": 203},
+    {"name": "Bremen", "code": 204},
+    {"name": "Saarland", "code": 205},
+    {"name": "Bayern", "code": 206},
+    {"name": "Thüringen", "code": 207},
+    {"name": "Sachsen-Anhalt", "code": 208},
+    {"name": "Sachsen", "code": 209},
+    {"name": "Brandenburg", "code": 210},
+    {"name": "Nordrhein-Westfalen", "code": 211},
+    {"name": "Baden-Württemberg", "code": 212},
+    {"name": "Hessen", "code": 213},
+    {"name": "Hamburg", "code": 214},
+    {"name": "Rheinland-Pfalz", "code": 215}
+  ]
+}
+

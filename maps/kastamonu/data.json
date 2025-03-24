@@ -1,0 +1,28 @@
+
+{
+  "name": "Kastamonu",
+  "type": "city",
+  "items": [
+    {"name": "Abana", "code": 200},
+    {"name": "Ağlı", "code": 201},
+    {"name": "Araç", "code": 202},
+    {"name": "Azdavay", "code": 203},
+    {"name": "Bozkurt", "code": 204},
+    {"name": "Çatalzeytin", "code": 205},
+    {"name": "Cide", "code": 206},
+    {"name": "Daday", "code": 207},
+    {"name": "Devrekani", "code": 208},
+    {"name": "Doğanyurt", "code": 209},
+    {"name": "Hanönü", "code": 210},
+    {"name": "İhsangazi", "code": 211},
+    {"name": "İnebolu", "code": 212},
+    {"name": "Küre", "code": 213},
+    {"name": "Merkez", "code": 214},
+    {"name": "Pınarbaşı", "code": 215},
+    {"name": "Şenpazar", "code": 216},
+    {"name": "Seydiler", "code": 217},
+    {"name": "Taşköprü", "code": 218},
+    {"name": "Tosya", "code": 219}
+  ]
+}
+

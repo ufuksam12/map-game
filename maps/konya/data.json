@@ -1,0 +1,39 @@
+
+{
+  "name": "Konya",
+  "type": "city",
+  "items": [
+    {"name": "Ahırlı", "code": 200},
+    {"name": "Akören", "code": 201},
+    {"name": "Akşehir", "code": 202},
+    {"name": "Altınekin", "code": 203},
+    {"name": "Beyşehir", "code": 204},
+    {"name": "Bozkır", "code": 205},
+    {"name": "Çeltik", "code": 206},
+    {"name": "Cihanbeyli", "code": 207},
+    {"name": "Çumra", "code": 208},
+    {"name": "Derbent", "code": 209},
+    {"name": "Derebucak", "code": 210},
+    {"name": "Doğanhisar", "code": 211},
+    {"name": "Emirgazi", "code": 212},
+    {"name": "Ereğli", "code": 213},
+    {"name": "Güneysınır", "code": 214},
+    {"name": "Hadım", "code": 215},
+    {"name": "Halkapınar", "code": 216},
+    {"name": "Hüyük", "code": 217},
+    {"name": "Ilgın", "code": 218},
+    {"name": "Kadınhanı", "code": 219},
+    {"name": "Karapınar", "code": 220},
+    {"name": "Karatay", "code": 221},
+    {"name": "Kulu", "code": 222},
+    {"name": "Meram", "code": 223},
+    {"name": "Sarayönü", "code": 224},
+    {"name": "Selçuklu", "code": 225},
+    {"name": "Seydişehir", "code": 226},
+    {"name": "Taşkent", "code": 227},
+    {"name": "Tuzlukçu", "code": 228},
+    {"name": "Yalıh.", "code": 229},
+    {"name": "Yunak", "code": 230}
+  ]
+}
+

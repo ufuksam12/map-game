@@ -1,0 +1,15 @@
+
+{
+  "name": "Bitlis",
+  "type": "city",
+  "items": [
+    {"name": "Adilcevaz", "code": 200},
+    {"name": "Ahlat", "code": 201},
+    {"name": "Güroymak", "code": 202},
+    {"name": "Hizan", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Mutki", "code": 205},
+    {"name": "Tatvan", "code": 206}
+  ]
+}
+

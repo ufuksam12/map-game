@@ -1,0 +1,17 @@
+
+{
+  "name": "Erzincan",
+  "type": "city",
+  "items": [
+    {"name": "Çayırlı", "code": 200},
+    {"name": "İliç", "code": 201},
+    {"name": "Kemah", "code": 202},
+    {"name": "Kemaliye", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Otlukbeli", "code": 205},
+    {"name": "Refahiye", "code": 206},
+    {"name": "Tercan", "code": 207},
+    {"name": "Üzümlü", "code": 208}
+  ]
+}
+

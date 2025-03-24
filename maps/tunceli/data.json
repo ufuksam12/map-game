@@ -1,0 +1,16 @@
+
+{
+  "name": "Tunceli",
+  "type": "city",
+  "items": [
+    {"name": "Çemişgezek", "code": 200},
+    {"name": "Hozat", "code": 201},
+    {"name": "Mazgirt", "code": 202},
+    {"name": "Merkez", "code": 203},
+    {"name": "Nazımiye", "code": 204},
+    {"name": "Ovacık", "code": 205},
+    {"name": "Pertek", "code": 206},
+    {"name": "Pülümür", "code": 207}
+  ]
+}
+

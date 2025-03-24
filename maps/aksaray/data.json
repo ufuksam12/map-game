@@ -1,0 +1,15 @@
+
+{
+  "name": "Aksaray",
+  "type": "city",
+  "items": [
+    {"name": "Ağaçören", "code": 200},
+    {"name": "Eskil", "code": 201},
+    {"name": "Gülağaç", "code": 202},
+    {"name": "Güzelyurt", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Ortaköy", "code": 205},
+    {"name": "Sarıyahşi", "code": 206}
+  ]
+}
+

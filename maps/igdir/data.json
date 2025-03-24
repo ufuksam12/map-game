@@ -1,0 +1,12 @@
+
+{
+  "name": "Şehir İsmi",
+  "type": "city",
+  "items": [
+    {"name": "Aralık", "code": 200},
+    {"name": "Karakoyunlu", "code": 201},
+    {"name": "Merkez", "code": 202},
+    {"name": "Tuzluca", "code": 203}
+  ]
+}
+

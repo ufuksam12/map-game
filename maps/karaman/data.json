@@ -1,0 +1,14 @@
+
+{
+  "name": "Karaman",
+  "type": "city",
+  "items": [
+    {"name": "Ayrancı", "code": 200},
+    {"name": "Başyayla", "code": 201},
+    {"name": "Ermenek", "code": 202},
+    {"name": "Kazımkarabekir", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Sarıveliler", "code": 205}
+  ]
+}
+

@@ -1,0 +1,14 @@
+
+{
+  "name": "Gümüşhane",
+  "type": "city",
+  "items": [
+    {"name": "Kelkit", "code": 200},
+    {"name": "Köse", "code": 201},
+    {"name": "Kürtün", "code": 202},
+    {"name": "Merkez", "code": 203},
+    {"name": "Şiran", "code": 204},
+    {"name": "Torul", "code": 205}
+  ]
+}
+

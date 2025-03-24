@@ -1,0 +1,21 @@
+
+{
+  "name": "Adana",
+  "type": "city",
+  "items": [
+    {"name": "Aladağ", "code": 200},
+    {"name": "Ceyhan", "code": 201},
+    {"name": "Feke", "code": 202},
+    {"name": "İmamoğlu", "code": 203},
+    {"name": "Karaisalı", "code": 204},
+    {"name": "Karataş", "code": 205},
+    {"name": "Kozan", "code": 206},
+    {"name": "Pozantı", "code": 207},
+    {"name": "Saimbeyli", "code": 208},
+    {"name": "Seyhan", "code": 209},
+    {"name": "Tufanbeyli", "code": 210},
+    {"name": "Yumurtalık", "code": 211},
+    {"name": "Yüreğir", "code": 212}
+  ]
+}
+

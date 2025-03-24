@@ -1,0 +1,19 @@
+
+{
+  "name": "Burdur",
+  "type": "city",
+  "items": [
+    {"name": "Ağlasun", "code": 200},
+    {"name": "Altınyayla", "code": 201},
+    {"name": "Bucak", "code": 202},
+    {"name": "Çavdır", "code": 203},
+    {"name": "Çeltikçi", "code": 204},
+    {"name": "Gölhisar", "code": 205},
+    {"name": "Karamanlı", "code": 206},
+    {"name": "Kemer", "code": 207},
+    {"name": "Merkez", "code": 208},
+    {"name": "Tefenni", "code": 209},
+    {"name": "Yeşilova", "code": 210}
+  ]
+}
+

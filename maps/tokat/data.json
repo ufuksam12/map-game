@@ -1,0 +1,20 @@
+
+{
+  "name": "Tokat",
+  "type": "city",
+  "items": [
+    {"name": "Almus", "code": 200},
+    {"name": "Artova", "code": 201},
+    {"name": "Başçiftlik", "code": 202},
+    {"name": "Erbaa", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Niksar", "code": 205},
+    {"name": "Pazar", "code": 206},
+    {"name": "Reşadiye", "code": 207},
+    {"name": "Sulusaray", "code": 208},
+    {"name": "Turhal", "code": 209},
+    {"name": "Yeşilyurt", "code": 210},
+    {"name": "Zile", "code": 211}
+  ]
+}
+

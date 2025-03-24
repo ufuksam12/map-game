@@ -1,0 +1,12 @@
+
+{
+  "name": "Hakkari",
+  "type": "city",
+  "items": [
+    {"name": "Çukurca", "code": 200},
+    {"name": "Merkez", "code": 201},
+    {"name": "Şemdinli", "code": 202},
+    {"name": "Yüksekova", "code": 203}
+  ]
+}
+

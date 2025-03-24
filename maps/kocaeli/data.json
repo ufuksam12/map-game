@@ -1,0 +1,15 @@
+
+{
+  "name": "Kocaeli",
+  "type": "city",
+  "items": [
+    {"name": "Derince", "code": 200},
+    {"name": "Gebze", "code": 201},
+    {"name": "Gölcük", "code": 202},
+    {"name": "Kandıra", "code": 203},
+    {"name": "Karamürsel", "code": 204},
+    {"name": "Körfez", "code": 205},
+    {"name": "Merkez", "code": 206}
+  ]
+}
+

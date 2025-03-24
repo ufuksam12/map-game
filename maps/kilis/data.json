@@ -1,0 +1,12 @@
+
+{
+  "name": "Şehir İsmi",
+  "type": "city",
+  "items": [
+    {"name": "Elbeyli", "code": 200},
+    {"name": "Merkez", "code": 201},
+    {"name": "Musabeyli", "code": 202},
+    {"name": "Polateli", "code": 203}
+  ]
+}
+

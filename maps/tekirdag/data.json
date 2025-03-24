@@ -1,0 +1,17 @@
+
+{
+  "name": "Tekirdağ",
+  "type": "city",
+  "items": [
+    {"name": "Çerkezköy", "code": 200},
+    {"name": "Çorlu", "code": 201},
+    {"name": "Hayrabolu", "code": 202},
+    {"name": "Malkara", "code": 203},
+    {"name": "M.ereğlisi", "code": 204},
+    {"name": "Merkez", "code": 205},
+    {"name": "Muratlı", "code": 206},
+    {"name": "Saray", "code": 207},
+    {"name": "Şarköy", "code": 208}
+  ]
+}
+

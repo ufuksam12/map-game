@@ -1,0 +1,15 @@
+
+{
+  "name": "Osmaniye",
+  "type": "city",
+  "items": [
+    {"name": "Bahçe", "code": 200},
+    {"name": "Düziçi", "code": 201},
+    {"name": "Hasanbeyli", "code": 202},
+    {"name": "Kadirli", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Sumbas", "code": 205},
+    {"name": "Toprakkale", "code": 206}
+  ]
+}
+

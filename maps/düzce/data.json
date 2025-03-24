@@ -1,0 +1,16 @@
+
+{
+  "name": "Düzce",
+  "type": "city",
+  "items": [
+    {"name": "Akçakoca", "code": 200},
+    {"name": "Çilimli", "code": 201},
+    {"name": "Cumayeri", "code": 202},
+    {"name": "Gölyaka", "code": 203},
+    {"name": "Gümüşova", "code": 204},
+    {"name": "Kaynaşlı", "code": 205},
+    {"name": "Merkez", "code": 206},
+    {"name": "Yığılca", "code": 207}
+  ]
+}
+

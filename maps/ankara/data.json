@@ -1,0 +1,32 @@
+
+{
+  "name": "Ankara",
+  "type": "city",
+  "items": [
+    {"name": "Akyurt", "code": 200},
+    {"name": "Altındağ", "code": 201},
+    {"name": "Ayaş", "code": 202},
+    {"name": "Bala", "code": 203},
+    {"name": "Beypazarı", "code": 204},
+    {"name": "Çamlıdere", "code": 205},
+    {"name": "Çankaya", "code": 206},
+    {"name": "Çubuk", "code": 207},
+    {"name": "Elmadağ", "code": 208},
+    {"name": "Etimesgut", "code": 209},
+    {"name": "Evren", "code": 210},
+    {"name": "Gölbaşı", "code": 211},
+    {"name": "Güdül", "code": 212},
+    {"name": "Haymana", "code": 213},
+    {"name": "Kalecik", "code": 214},
+    {"name": "Kazan", "code": 215},
+    {"name": "Keçiören", "code": 216},
+    {"name": "Kızılcahamam", "code": 217},
+    {"name": "Mamak", "code": 218},
+    {"name": "Nallıhan", "code": 219},
+    {"name": "Polatlı", "code": 220},
+    {"name": "Sincan", "code": 221},
+    {"name": "Şereflikoçhisar", "code": 222},
+    {"name": "Yenimahalle", "code": 223}
+  ]
+}
+

@@ -1,0 +1,16 @@
+
+{
+  "name": "Bilecik",
+  "type": "city",
+  "items": [
+    {"name": "Bozüyük", "code": 200},
+    {"name": "Gölpazarı", "code": 201},
+    {"name": "İnhisar", "code": 202},
+    {"name": "Merkez", "code": 203},
+    {"name": "Osmaneli", "code": 204},
+    {"name": "Pazaryeri", "code": 205},
+    {"name": "Söğüt", "code": 206},
+    {"name": "Yenipazar", "code": 207}
+  ]
+}
+

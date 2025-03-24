@@ -1,0 +1,24 @@
+
+{
+  "name": "Manisa",
+  "type": "city",
+  "items": [
+    {"name": "Ahmetli", "code": 200},
+    {"name": "Akhisar", "code": 201},
+    {"name": "Alaşehir", "code": 202},
+    {"name": "Demirci", "code": 203},
+    {"name": "Gölmarmara", "code": 204},
+    {"name": "Gördes", "code": 205},
+    {"name": "Kırkağaç", "code": 206},
+    {"name": "Köprübaşı", "code": 207},
+    {"name": "Kula", "code": 208},
+    {"name": "Merkez", "code": 209},
+    {"name": "Salihli", "code": 210},
+    {"name": "Sarıgöl", "code": 211},
+    {"name": "Saruhanlı", "code": 212},
+    {"name": "Selendi", "code": 213},
+    {"name": "Soma", "code": 214},
+    {"name": "Turgutlu", "code": 215}
+  ]
+}
+

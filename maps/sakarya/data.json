@@ -1,0 +1,21 @@
+
+{
+  "name": "Sakarya",
+  "type": "city",
+  "items": [
+    {"name": "Akyazı", "code": 200},
+    {"name": "Ferizli", "code": 201},
+    {"name": "Geyve", "code": 202},
+    {"name": "Hendek", "code": 203},
+    {"name": "Karapürçek", "code": 204},
+    {"name": "Karasu", "code": 205},
+    {"name": "Kaynarca", "code": 206},
+    {"name": "Kocaali", "code": 207},
+    {"name": "Merkez", "code": 208},
+    {"name": "Pamukova", "code": 209},
+    {"name": "Sapanca", "code": 210},
+    {"name": "Söğütlü", "code": 211},
+    {"name": "Taraklı", "code": 212}
+  ]
+}
+

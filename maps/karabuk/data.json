@@ -1,0 +1,14 @@
+
+{
+  "name": "Karabük",
+  "type": "city",
+  "items": [
+    {"name": "Eflani", "code": 200},
+    {"name": "Eskipazar", "code": 201},
+    {"name": "Merkez", "code": 202},
+    {"name": "Ovacık", "code": 203},
+    {"name": "Safranbolu", "code": 204},
+    {"name": "Yenice", "code": 205}
+  ]
+}
+

@@ -1,0 +1,23 @@
+
+{
+  "name": "Samsun",
+  "type": "city",
+  "items": [
+    {"name": "Alaçam", "code": 200},
+    {"name": "Asarcik", "code": 201},
+    {"name": "Ayvacık", "code": 202},
+    {"name": "Bafra", "code": 203},
+    {"name": "Çarşamba", "code": 204},
+    {"name": "Havza", "code": 205},
+    {"name": "Kavak", "code": 206},
+    {"name": "Ladik", "code": 207},
+    {"name": "Merkez", "code": 208},
+    {"name": "Ondokuz Mayıs", "code": 209},
+    {"name": "Salıpazarı", "code": 210},
+    {"name": "Tekkeköy", "code": 211},
+    {"name": "Terme", "code": 212},
+    {"name": "Vezirköprü", "code": 213},
+    {"name": "Yakakent", "code": 214}
+  ]
+}
+

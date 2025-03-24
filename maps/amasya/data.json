@@ -1,0 +1,15 @@
+
+{
+  "name": "Amasya",
+  "type": "city",
+  "items": [
+    {"name": "Göynücek", "code": 200},
+    {"name": "Gümüşhacıköy", "code": 201},
+    {"name": "Hamamözü", "code": 202},
+    {"name": "Merkez", "code": 203},
+    {"name": "Merzifon", "code": 204},
+    {"name": "Suluova", "code": 205},
+    {"name": "Taşova", "code": 206}
+  ]
+}
+

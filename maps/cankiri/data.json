@@ -1,0 +1,20 @@
+
+{
+  "name": "Çankırı",
+  "type": "city",
+  "items": [
+    {"name": "Atkaracalar", "code": 200},
+    {"name": "Bayramören", "code": 201},
+    {"name": "Çerkeş", "code": 202},
+    {"name": "Eldivan", "code": 203},
+    {"name": "Ilgaz", "code": 204},
+    {"name": "Kızılırmak", "code": 205},
+    {"name": "Korgun", "code": 206},
+    {"name": "Kurşunlu", "code": 207},
+    {"name": "Merkez", "code": 208},
+    {"name": "Orta", "code": 209},
+    {"name": "Şabanözü", "code": 210},
+    {"name": "Yapraklı", "code": 211}
+  ]
+}
+

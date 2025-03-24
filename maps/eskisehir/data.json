@@ -1,0 +1,21 @@
+
+{
+  "name": "Eskişehir",
+  "type": "city",
+  "items": [
+    {"name": "Alpu", "code": 200},
+    {"name": "Beylikova", "code": 201},
+    {"name": "Çifteler", "code": 202},
+    {"name": "Günyüzü", "code": 203},
+    {"name": "Han", "code": 204},
+    {"name": "İnönü", "code": 205},
+    {"name": "Mahmudiye", "code": 206},
+    {"name": "Merkez", "code": 207},
+    {"name": "Mihalgazi", "code": 208},
+    {"name": "Mihalıçcık", "code": 209},
+    {"name": "Sarıcakaya", "code": 210},
+    {"name": "Seyitgazi", "code": 211},
+    {"name": "Sivrihisar", "code": 212}
+  ]
+}
+

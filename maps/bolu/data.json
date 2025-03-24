@@ -1,0 +1,17 @@
+
+{
+  "name": "Bolu",
+  "type": "city",
+  "items": [
+    {"name": "Dörtdivan", "code": 200},
+    {"name": "Gerede", "code": 201},
+    {"name": "Göynük", "code": 202},
+    {"name": "Kıbrıscık", "code": 203},
+    {"name": "Mengen", "code": 204},
+    {"name": "Merkez", "code": 205},
+    {"name": "Mudurnu", "code": 206},
+    {"name": "Seben", "code": 207},
+    {"name": "Yeniçağa", "code": 208}
+  ]
+}
+

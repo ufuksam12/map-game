@@ -1,0 +1,20 @@
+
+{
+  "name": "Rize",
+  "type": "city",
+  "items": [
+    {"name": "Ardeşen", "code": 200},
+    {"name": "Çamlıhemşin", "code": 201},
+    {"name": "Çayeli", "code": 202},
+    {"name": "Derepazarı", "code": 203},
+    {"name": "Fındıklı", "code": 204},
+    {"name": "Güneysu", "code": 205},
+    {"name": "Hemşin", "code": 206},
+    {"name": "İkizdere", "code": 207},
+    {"name": "İyidere", "code": 208},
+    {"name": "Kalkandere", "code": 209},
+    {"name": "Merkez", "code": 210},
+    {"name": "Pazar", "code": 211}
+  ]
+}
+

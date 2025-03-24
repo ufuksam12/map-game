@@ -1,0 +1,22 @@
+
+{
+  "name": "Malatya",
+  "type": "city",
+  "items": [
+    {"name": "Akçadağ", "code": 200},
+    {"name": "Arapkir", "code": 201},
+    {"name": "Arguvan", "code": 202},
+    {"name": "Battalgazi", "code": 203},
+    {"name": "Darende", "code": 204},
+    {"name": "Doğanşehir", "code": 205},
+    {"name": "Doğanyol", "code": 206},
+    {"name": "Hekimhan", "code": 207},
+    {"name": "Kale", "code": 208},
+    {"name": "Kuluncak", "code": 209},
+    {"name": "Merkez", "code": 210},
+    {"name": "Pötürge", "code": 211},
+    {"name": "Yazıhan", "code": 212},
+    {"name": "Yeşilyurt", "code": 213}
+  ]
+}
+

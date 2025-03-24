@@ -1,0 +1,52 @@
+
+{
+  "name": "İstanbul",
+  "type": "city",
+  "items": [
+    {"name": "Adalar", "code": 200},
+    {"name": "Arnavutköy", "code": 201},
+    {"name": "Ataşehir", "code": 202},
+    {"name": "Avcılar", "code": 203},
+    {"name": "Bağcılar", "code": 204},
+    {"name": "Bahçelievler", "code": 205},
+    {"name": "Bakırköy", "code": 206},
+    {"name": "Başakşehir", "code": 207},
+
+
+    {"name": "Beşiktaş", "code": 209},
+    {"name": "Beykoz", "code": 210},
+
+
+    {"name": "Beylikdüzü", "code": 211},
+    {"name": "Beyoğlu", "code": 212},
+
+
+    {"name": "Büyükçekmece", "code": 213},
+    {"name": "Çatalca", "code": 214},
+    {"name": "Çekmeköy", "code": 215},
+    {"name": "Esenler", "code": 216},
+    {"name": "Esenyurt", "code": 217},
+    {"name": "Eyüp", "code": 218},
+    {"name": "Fatih", "code": 219},
+    {"name": "Gaziosmanpaşa", "code": 220},
+    {"name": "Güngören", "code": 221},
+    {"name": "Kadıköy", "code": 222},
+    {"name": "Kağıthane", "code": 223},
+    {"name": "Kartal", "code": 224},
+    {"name": "Küçükçekmece", "code": 225},
+    {"name": "Maltepe", "code": 226},
+    {"name": "Pendik", "code": 227},
+    {"name": "Sancaktepe", "code": 228},
+    {"name": "Sarıyer", "code": 229},
+    {"name": "Şile", "code": 230},
+    {"name": "Şişli", "code": 231},
+    {"name": "Sultanbeyli", "code": 232},
+    {"name": "Sultangazi", "code": 233},
+    {"name": "Tuzla", "code": 234},
+    {"name": "Ümraniye", "code": 235},
+    {"name": "Silivri", "code": 236},
+    {"name": "Üsküdar", "code": 237},
+    {"name": "Zeytinburnu", "code": 238}
+  ]
+}
+

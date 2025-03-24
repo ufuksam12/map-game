@@ -1,0 +1,24 @@
+
+{
+  "name": "Kayseri",
+  "type": "city",
+  "items": [
+    {"name": "Akkışla", "code": 200},
+    {"name": "Bünyan", "code": 201},
+    {"name": "Develi", "code": 202},
+    {"name": "Felahiye", "code": 203},
+    {"name": "Hacılar", "code": 204},
+    {"name": "İncesu", "code": 205},
+    {"name": "Kocasinan", "code": 206},
+    {"name": "Melikgazi", "code": 207},
+    {"name": "Özvatan", "code": 208},
+    {"name": "Pınarbaşı", "code": 209},
+    {"name": "Sarıoğlan", "code": 210},
+    {"name": "Sarız", "code": 211},
+    {"name": "Talas", "code": 212},
+    {"name": "Tomarza", "code": 213},
+    {"name": "Yahyalı", "code": 214},
+    {"name": "Yeşilhisar", "code": 215}
+  ]
+}
+

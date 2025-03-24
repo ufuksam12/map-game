@@ -1,0 +1,26 @@
+
+{
+  "name": "Fransa",
+  "type": "country",
+  "items": [
+    {"name": "Corse", "code": 200},
+    {"name": "Bretagne", "code": 201},
+    {"name": "Pays de la Loire", "code": 202},
+    {"name": "Provence-Alpes-Côte-d'Azur", "code": 203},
+    {"name": "Occitanie", "code": 204},
+    {"name": "Nouvelle-Aquitaine", "code": 205},
+    {"name": "Bourgogne-Franche-Comté", "code": 206},
+    {"name": "Centre-Val de Loire", "code": 207},
+    {"name": "Île-de-France", "code": 208},
+    {"name": "Hauts-de-France", "code": 209},
+    {"name": "Auvergne-Rhône-Alpes", "code": 210},
+    {"name": "Grand Est", "code": 211},
+    {"name": "Normandie", "code": 212},
+    {"name": "La Réunion", "code": 213},
+    {"name": "Mayotte", "code": 214},
+    {"name": "Guyane fr.", "code": 215},
+    {"name": "Martinique", "code": 216},
+    {"name": "Guadeloupe", "code": 217}
+  ]
+}
+

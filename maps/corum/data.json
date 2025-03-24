@@ -1,0 +1,20 @@
+{
+    "name": "Çorum",
+    "type":"city",
+    "items": [
+    { "name": "Alaca", "code": 101 },
+    { "name": "Bayat", "code": 102 },
+    { "name": "Boğazkale", "code": 103 },
+    { "name": "Dodurga", "code": 104 },
+    { "name": "İskilip", "code": 105 },
+    { "name": "Kargı", "code": 106 },
+    { "name": "Laçin", "code": 107 },
+    { "name": "Mecitözü", "code": 108 },
+    { "name": "Merkez", "code": 109 },
+    { "name": "Oğuzlar", "code": 110 },
+    { "name": "Ortaköy", "code": 111 },
+    { "name": "Osmancık", "code": 112 },
+    { "name": "Sungurlu", "code": 113 },
+    { "name": "Uğurludağ", "code": 114 }
+  ]
+}

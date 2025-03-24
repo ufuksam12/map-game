@@ -1,0 +1,16 @@
+
+{
+  "name": "Nevşehir",
+  "type": "city",
+  "items": [
+    {"name": "Acıgöl", "code": 200},
+    {"name": "Avanos", "code": 201},
+    {"name": "Derinkuyu", "code": 202},
+    {"name": "Gülşehir", "code": 203},
+    {"name": "Hacıbektaş", "code": 204},
+    {"name": "Kozaklı", "code": 205},
+    {"name": "Merkez", "code": 206},
+    {"name": "Ürgüp", "code": 207}
+  ]
+}
+

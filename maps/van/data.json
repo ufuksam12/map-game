@@ -1,0 +1,20 @@
+
+{
+  "name": "Van",
+  "type": "city",
+  "items": [
+    {"name": "B.saray", "code": 200},
+    {"name": "Başkale", "code": 201},
+    {"name": "Çaldıran", "code": 202},
+    {"name": "Çatak", "code": 203},
+    {"name": "Edremit", "code": 204},
+    {"name": "Erciş", "code": 205},
+    {"name": "Gevaş", "code": 206},
+    {"name": "Gürpınar", "code": 207},
+    {"name": "Merkez", "code": 208},
+    {"name": "Muradiye", "code": 209},
+    {"name": "Özalp", "code": 210},
+    {"name": "Saray", "code": 211}
+  ]
+}
+

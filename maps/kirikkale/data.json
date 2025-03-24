@@ -1,0 +1,17 @@
+
+{
+  "name": "Kırıkkale",
+  "type": "city",
+  "items": [
+    {"name": "Bahşılı", "code": 200},
+    {"name": "Balışeyh", "code": 201},
+    {"name": "Çelebi", "code": 202},
+    {"name": "Delice", "code": 203},
+    {"name": "Karakeçili", "code": 204},
+    {"name": "Keskin", "code": 205},
+    {"name": "Merkez", "code": 206},
+    {"name": "Sulakyurt", "code": 207},
+    {"name": "Yahşihan", "code": 208}
+  ]
+}
+

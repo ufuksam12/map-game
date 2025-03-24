@@ -1,0 +1,12 @@
+
+{
+  "name": "Bartın",
+  "type": "city",
+  "items": [
+    {"name": "Amasra", "code": 200},
+    {"name": "Kurucaşile", "code": 201},
+    {"name": "Merkez", "code": 202},
+    {"name": "Ulus", "code": 203}
+  ]
+}
+

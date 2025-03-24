@@ -1,0 +1,16 @@
+
+{
+  "name": "Ağrı",
+  "type": "city",
+  "items": [
+    {"name": "Diyadin", "code": 200},
+    {"name": "Doğubeyazıt", "code": 201},
+    {"name": "Eleşkirt", "code": 202},
+    {"name": "Hamur", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Patnos", "code": 205},
+    {"name": "Taşlıçay", "code": 206},
+    {"name": "Tutak", "code": 207}
+  ]
+}
+

@@ -1,0 +1,21 @@
+
+{
+  "name": "Isparta",
+  "type": "city",
+  "items": [
+    {"name": "Aksu", "code": 200},
+    {"name": "Atabey", "code": 201},
+    {"name": "Eğirdir", "code": 202},
+    {"name": "Gelendost", "code": 203},
+    {"name": "Gönen", "code": 204},
+    {"name": "Keçiborlu", "code": 205},
+    {"name": "Merkez", "code": 206},
+    {"name": "Şarkikaraağaç", "code": 207},
+    {"name": "Senirkent", "code": 208},
+    {"name": "Sütçüler", "code": 209},
+    {"name": "Uluborlu", "code": 210},
+    {"name": "Yalvaç", "code": 211},
+    {"name": "Yenişarbademli", "code": 212}
+  ]
+}
+

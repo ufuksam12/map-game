@@ -1,0 +1,17 @@
+
+{
+  "name": "Adıyaman",
+  "type": "city",
+  "items": [
+    {"name": "Besni", "code": 200},
+    {"name": "Çelikhan", "code": 201},
+    {"name": "Gerger", "code": 202},
+    {"name": "Gölbaşı", "code": 203},
+    {"name": "Kahta", "code": 204},
+    {"name": "Merkez", "code": 205},
+    {"name": "Samsat", "code": 206},
+    {"name": "Sincik", "code": 207},
+    {"name": "Tut", "code": 208}
+  ]
+}
+

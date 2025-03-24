@@ -1,0 +1,19 @@
+
+{
+  "name": "Şanlıurfa",
+  "type": "city",
+  "items": [
+    {"name": "Akçakale", "code": 200},
+    {"name": "Birecik", "code": 201},
+    {"name": "Bozova", "code": 202},
+    {"name": "Ceylanpınar", "code": 203},
+    {"name": "Halfeti", "code": 204},
+    {"name": "Harran", "code": 205},
+    {"name": "Hilvan", "code": 206},
+    {"name": "Merkez", "code": 207},
+    {"name": "Siverek", "code": 208},
+    {"name": "Suruç", "code": 209},
+    {"name": "Viranşehir", "code": 210}
+  ]
+}
+

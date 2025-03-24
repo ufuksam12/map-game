@@ -1,0 +1,25 @@
+
+{
+  "name": "Bursa",
+  "type": "city",
+  "items": [
+    {"name": "Büyükorhan", "code": 200},
+    {"name": "Gemlik", "code": 201},
+    {"name": "Gürsu", "code": 202},
+    {"name": "Harmancık", "code": 203},
+    {"name": "İnegöl", "code": 204},
+    {"name": "İznik", "code": 205},
+    {"name": "Karacabey", "code": 206},
+    {"name": "Keles", "code": 207},
+    {"name": "Kestel", "code": 208},
+    {"name": "Mudanya", "code": 209},
+    {"name": "Mustafa Kemalpaşa", "code": 210},
+    {"name": "Nilüfer", "code": 211},
+    {"name": "Orhaneli", "code": 212},
+    {"name": "Orhangazi", "code": 213},
+    {"name": "Osmangazi", "code": 214},
+    {"name": "Yenişehir", "code": 215},
+    {"name": "Yıldırım", "code": 216}
+  ]
+}
+

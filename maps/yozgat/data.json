@@ -1,0 +1,22 @@
+
+{
+  "name": "Yozgat",
+  "type": "city",
+  "items": [
+    {"name": "Akdağmadeni", "code": 200},
+    {"name": "Aydıncık", "code": 201},
+    {"name": "Boğazlıyan", "code": 202},
+    {"name": "Çandır", "code": 203},
+    {"name": "Çayıralan", "code": 204},
+    {"name": "Çekerek", "code": 205},
+    {"name": "Kadışehri", "code": 206},
+    {"name": "Merkez", "code": 207},
+    {"name": "Saraykent", "code": 208},
+    {"name": "Sarıkaya", "code": 209},
+    {"name": "Şefaatli", "code": 210},
+    {"name": "Sorgun", "code": 211},
+    {"name": "Yenifakılı", "code": 212},
+    {"name": "Yerköy", "code": 213}
+  ]
+}
+

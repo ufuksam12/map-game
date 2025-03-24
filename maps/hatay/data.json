@@ -1,0 +1,20 @@
+
+{
+  "name": "Hatay",
+  "type": "city",
+  "items": [
+    {"name": "Altınözü", "code": 200},
+    {"name": "Belen", "code": 201},
+    {"name": "Dörtyol", "code": 202},
+    {"name": "Erzin", "code": 203},
+    {"name": "Hassa", "code": 204},
+    {"name": "İskenderun", "code": 205},
+    {"name": "Kırıkhan", "code": 206},
+    {"name": "Kumlu", "code": 207},
+    {"name": "Merkez", "code": 208},
+    {"name": "Reyhanlı", "code": 209},
+    {"name": "Samandağ", "code": 210},
+    {"name": "Yayladağı", "code": 211}
+  ]
+}
+

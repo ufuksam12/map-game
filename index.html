@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <link href="styles/cute-style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div id="logo-block">
+        <img class="logo" src="images/md-logo.png">
+    </div>
+    <div id="description-block">
+        <div class="description" id="level-question"></div>        
+    </div>
+
+    <div id="game-block">
+        <div id="game-scores">
+            <div class="level-scores">
+                <div class="score-item" id="envanter-level">
+                    <img class="score-item-img" src="images/kapi-icon.png">Level: <span class="envanter-value">0</span>
+                </div>
+
+                <div class="score-item" id="envanter-score">
+                    <img class="score-item-img" src="images/dollar.png">Skor: <span class="envanter-value">0</span>
+                </div>
+                <div class="score-item" id="envanter-star">
+                    <img class="score-item-img" src="images/score-icon.png">Star: <span class="envanter-value">0</span>
+                </div>
+            </div>
+        </div>
+        <div id="game-map">
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" width="0" height="0">
+                <defs>
+                    <linearGradient id="gradNormal" x1="0%" x2="0%" y1="0%" y2="100%">
+                        <stop offset="0%" stop-color="#A829DA" />
+                        <stop offset="100%" stop-color="#8C72FF" />
+                    </linearGradient>
+
+                    <linearGradient id="gradHover" x1="0%" x2="0%" y1="0%" y2="100%">
+                        <stop offset="0%" stop-color="#4AE4E6" />
+                        <stop offset="100%" stop-color="#ffffff" />
+                    </linearGradient>
+                </defs>
+
+            </svg>
+            <div class="map-svg">
+
+            </div>
+            <div class="game-cursor">
+                <div class="cursor-x"></div>
+                <div class="cursor-y"></div>
+                <div class="hover-title hide"></div>
+                <div class="game-timer">00:00</div>
+                <div class="game-progress">0</div>
+            </div>
+
+        </div>
+        <div id="game-items">
+            <div class="level-items">
+                <button id="bolum-sec-btn">Alıştırma Yap</button>
+                <div class="score-item" id="envanter-can">
+                    <img class="score-item-img" src="images/can-icon.png">
+                    Can: <span class="envanter-value">0</span>
+                </div>
+
+                <div class="score-item" id="envanter-hit">
+
+                    <button id="use-hit-button" class="score-item-button" title="Kullanmak için tıklayın">
+                        <img class="score-item-img" src="images/hit-icon.png">
+                        İksir: <span class="envanter-value">0</span>
+                        ⚡️</button>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="bolum-modal" class="modal hide modal-bolum-listesi">
+        <h4>İstediğin Bölümü Seç</h4>
+        <div class="bolum-listesi"></div>
+
+
+    </div>
+
+
+</body>
+<script src="scripts/cute-alert.js"></script>
+<script src="audioManager.js"></script>
+<script src="levelManager.js"></script>
+<script src="script.js"></script>
+
+</html>

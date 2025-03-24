@@ -1,0 +1,23 @@
+
+{
+  "name": "Antalya",
+  "type": "city",
+  "items": [
+    {"name": "Akseki", "code": 200},
+    {"name": "Alanya", "code": 201},
+    {"name": "Elmalı", "code": 202},
+    {"name": "Finike", "code": 203},
+    {"name": "Gazipaşa", "code": 204},
+    {"name": "Gündoğmuş", "code": 205},
+    {"name": "İbradi", "code": 206},
+    {"name": "Kale", "code": 207},
+    {"name": "Kaş", "code": 208},
+    {"name": "Kemer", "code": 209},
+    {"name": "Korkuteli", "code": 210},
+    {"name": "Kumluca", "code": 211},
+    {"name": "Manavgat", "code": 212},
+    {"name": "Merkez", "code": 213},
+    {"name": "Serik", "code": 214}
+  ]
+}
+

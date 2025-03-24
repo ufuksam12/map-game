@@ -1,0 +1,17 @@
+
+{
+  "name": "Edirne",
+  "type": "city",
+  "items": [
+    {"name": "Enez", "code": 200},
+    {"name": "Havsa", "code": 201},
+    {"name": "İpsala", "code": 202},
+    {"name": "Keşan", "code": 203},
+    {"name": "Lalapaşa", "code": 204},
+    {"name": "Meriç", "code": 205},
+    {"name": "Merkez", "code": 206},
+    {"name": "Süleoğlu", "code": 207},
+    {"name": "Uzunköprü", "code": 208}
+  ]
+}
+

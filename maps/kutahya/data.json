@@ -1,0 +1,21 @@
+
+{
+  "name": "Kütahya",
+  "type": "city",
+  "items": [
+    {"name": "Altıntaş", "code": 200},
+    {"name": "Aslanapa", "code": 201},
+    {"name": "Çavdarhisar", "code": 202},
+    {"name": "Domaniç", "code": 203},
+    {"name": "Dumlupınar", "code": 204},
+    {"name": "Emet", "code": 205},
+    {"name": "Gediz", "code": 206},
+    {"name": "Hisarcık", "code": 207},
+    {"name": "Merkez", "code": 208},
+    {"name": "Pazarlar", "code": 209},
+    {"name": "Şaphane", "code": 210},
+    {"name": "Simav", "code": 211},
+    {"name": "Tavşanlı", "code": 212}
+  ]
+}
+

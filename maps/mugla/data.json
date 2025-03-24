@@ -1,0 +1,20 @@
+
+{
+  "name": "Muğla",
+  "type": "city",
+  "items": [
+    {"name": "Bodrum", "code": 200},
+    {"name": "Dalaman", "code": 201},
+    {"name": "Datça", "code": 202},
+    {"name": "Fethiye", "code": 203},
+    {"name": "Kavaklıdere", "code": 204},
+    {"name": "Köyceğiz", "code": 205},
+    {"name": "Marmaris", "code": 206},
+    {"name": "Merkez", "code": 207},
+    {"name": "Milas", "code": 208},
+    {"name": "Ortaca", "code": 209},
+    {"name": "Ula", "code": 210},
+    {"name": "Yatağan", "code": 211}
+  ]
+}
+

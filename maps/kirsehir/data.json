@@ -1,0 +1,15 @@
+
+{
+  "name": "Kırşehir",
+  "type": "city",
+  "items": [
+    {"name": "Akçakent", "code": 200},
+    {"name": "Akpınar", "code": 201},
+    {"name": "Boztepe", "code": 202},
+    {"name": "Çiçekdağı", "code": 203},
+    {"name": "Kaman", "code": 204},
+    {"name": "Merkez", "code": 205},
+    {"name": "Mucur", "code": 206}
+  ]
+}
+

@@ -1,0 +1,17 @@
+
+{
+  "name": "Sinop",
+  "type": "city",
+  "items": [
+    {"name": "Ayancık", "code": 200},
+    {"name": "Boyabat", "code": 201},
+    {"name": "Dikmen", "code": 202},
+    {"name": "Durağan", "code": 203},
+    {"name": "Erfelek", "code": 204},
+    {"name": "Gerze", "code": 205},
+    {"name": "Merkez", "code": 206},
+    {"name": "Saraydüzü", "code": 207},
+    {"name": "Türkeli", "code": 208}
+  ]
+}
+

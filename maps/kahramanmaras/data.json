@@ -1,0 +1,18 @@
+
+{
+  "name": "Kahramanmaraş",
+  "type": "city",
+  "items": [
+    {"name": "Afşin", "code": 200},
+    {"name": "Andırın", "code": 201},
+    {"name": "Çağlayancerit", "code": 202},
+    {"name": "Ekinözü", "code": 203},
+    {"name": "Elbistan", "code": 204},
+    {"name": "Göksun", "code": 205},
+    {"name": "Merkez", "code": 206},
+    {"name": "Nurhak", "code": 207},
+    {"name": "Pazarcık", "code": 208},
+    {"name": "Türkoğlu", "code": 209}
+  ]
+}
+

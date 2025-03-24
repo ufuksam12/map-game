@@ -1,0 +1,72 @@
+
+{
+  "name": "Fas",
+  "type": "city",
+  "items": [
+    {
+      "name": "Rabat - Salé - Zemmour - Zaer",
+      "code": 200
+    },
+    {
+      "name": "Meknès - Tafilalet",
+      "code": 201
+    },
+    {
+      "name": "Tadla-A.",
+      "code": 202
+    },
+    {
+      "name": "Oriental",
+      "code": 203
+    },
+    {
+      "name": "Fès-B.",
+      "code": 204
+    },
+    {
+      "name": "Souss - Massa - Draâ",
+      "code": 205
+    },
+    {
+      "name": "Marrakech - Tensift - Al Haouz",
+      "code": 206
+    },
+    {
+      "name": "Doukkala - Abda",
+      "code": 207
+    },
+    {
+      "name": "Guelmim - Es-Semara",
+      "code": 208
+    },
+    {
+      "name": "Laâyoune - Boujdour - Sakia El Hamra",
+      "code": 209
+    },
+    {
+      "name": "Oued el Dahab",
+      "code": 210
+    },
+    {
+      "name": "Tanger - Tétouan",
+      "code": 211
+    },
+    {
+      "name": "Taza-Al Hoceima-Taounate",
+      "code": 212
+    },
+    {
+      "name": "Gharb - Chrarda - Béni Hssen",
+      "code": 213
+    },
+    {
+      "name": "Chaouia - Ouardigha",
+      "code": 214
+    },
+    {
+      "name": "Grand Casablanca",
+      "code": 215
+    }
+  ]
+}
+

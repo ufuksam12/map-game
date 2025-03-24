@@ -1,0 +1,16 @@
+
+{
+  "name": "Artvin",
+  "type": "city",
+  "items": [
+    {"name": "Ardanuç", "code": 200},
+    {"name": "Arhavi", "code": 201},
+    {"name": "Borçka", "code": 202},
+    {"name": "Hopa", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Murgul", "code": 205},
+    {"name": "Şavşat", "code": 206},
+    {"name": "Yusufeli", "code": 207}
+  ]
+}
+

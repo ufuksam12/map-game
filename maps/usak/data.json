@@ -1,0 +1,13 @@
+{
+    "name": "Uşak",
+    "type":"city",
+    "items": [
+      
+        { "code": 5000, "name": "Banaz" },
+        { "code": 5001, "name": "Eşme" },
+        { "code": 5002, "name": "Karahallı" },
+        { "code": 5003, "name": "Merkez" },
+        { "code": 5004, "name": "Sivaslı" },
+        { "code": 5005, "name": "Ulubey" }
+    ]
+}

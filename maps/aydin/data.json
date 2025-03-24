@@ -1,0 +1,23 @@
+{
+  "name": "Aydın",
+  "type": "city",
+  "items": [
+      {"name": "Bozdoğan", "code": 200},
+      {"name": "Buharkent", "code": 201},
+      {"name": "Çine", "code": 202},
+      {"name": "Didim", "code": 203},
+      {"name": "Germencik", "code": 204},
+      {"name": "İncirliova", "code": 205},
+      {"name": "Karacasu", "code": 206},
+      {"name": "Karpuzlu", "code": 207},
+      {"name": "Koçarlı", "code": 208},
+      {"name": "Köşk", "code": 209},
+      {"name": "Kuşadası", "code": 210},
+      {"name": "Kuyucak", "code": 211},
+      {"name": "Merkez", "code": 212},
+      {"name": "Nazilli", "code": 213},
+      {"name": "Söke", "code": 214},
+      {"name": "Sultanhisar", "code": 215},
+      {"name": "Yenipazar", "code": 216}
+  ]
+}

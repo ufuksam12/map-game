@@ -1,0 +1,14 @@
+
+{
+  "name": "Ardahan",
+  "type": "city",
+  "items": [
+    {"name": "Çıldır", "code": 200},
+    {"name": "Damal", "code": 201},
+    {"name": "Göle", "code": 202},
+    {"name": "Hanak", "code": 203},
+    {"name": "Merkez", "code": 204},
+    {"name": "Posof", "code": 205}
+  ]
+}
+
