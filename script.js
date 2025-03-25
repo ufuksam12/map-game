@@ -301,12 +301,9 @@ document.body.addEventListener("mousemove", (e) => {
 
     const originXY = `${cursorRateX * 100}% ${cursorRateY * 100}%`;
 
-    gameMapSvg.style.transformOrigin = originXY;
-    //hoverTitle.style.transform = `translateY(${-cursorRateY*30}px) translateX(${-cursorRateX*30}px)`
-
-
-
-
+    if( wrapperRect.width > 400) {
+        gameMapSvg.style.transformOrigin = originXY;
+    }
 });
 
 

@@ -106,6 +106,9 @@ body {
     align-items: center;
 
 }
+#game-scores{
+    display: flex;
+}
 
 #game-map {
     position: relative;
@@ -117,6 +120,9 @@ body {
     background-size: 100% 100%;
     border-radius: 30px;
     overflow: hidden;
+}
+#game-items{
+    display: flex;
 }
 
 .game-cursor {
@@ -336,10 +342,11 @@ body {
 }
 
 .modal {
-
     position: fixed;
     width: 600px;
     height: 680px;
+    max-height: 100vh;
+    overflow: auto;
     background: #141438;
     border-radius: 30px;
     left: 50%;
@@ -351,4 +358,64 @@ body {
 
 .modal.hide {
     display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    #game-block{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    #game-map{
+        width: 100%;        
+        flex-direction: column;
+        height: 60vh;
+        border-radius: 0;
+    }
+
+    #game-map:hover .map-svg {
+        transform: scale(1.0);
+    }
+
+    #game-scores{
+        flex-direction: column;
+        order: 2;
+        flex:1;
+        
+    }
+
+    .level-scores {
+        border-top-left-radius: 0;
+        width: auto;
+    }
+
+    #game-items{        
+        order: 2;
+        
+    }
+    .level-items {
+        border-top-right-radius: 0;
+    }
+    #bolum-sec-btn {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: auto;
+    }
+    .map-svg {
+        display: flex;
+        height: 100%;
+    }
+
+    .map-svg>svg {
+        width: 400px;
+        height: auto;
+        margin: auto;
+    }
+
+
+    .modal {
+        max-width: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+    }
 }
